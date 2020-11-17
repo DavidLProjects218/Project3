@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1571952634 source:c:\ece 370 _codeblocks\assignment 3 cb\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<fstream>
+	<sstream>
+	<string>
+
